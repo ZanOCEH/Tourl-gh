@@ -3,6 +3,5 @@
   "status": true,
   "domain_akses": [
     "https://google.com": true,
-    // domain lain
   ]
 }
