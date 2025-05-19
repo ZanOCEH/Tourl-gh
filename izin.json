@@ -3,5 +3,6 @@
   "status": true,
   "domain_akses": [
     "https://google.com": true,
+    "https://apis-anomaki.zone.id"
   ]
 }
