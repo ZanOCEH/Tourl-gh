@@ -1,0 +1,8 @@
+{
+  "redirect_url": "https://google.com",
+  "status": true,
+  "domain_akses": [
+    "https://google.com": true,
+    // domain lain
+  ]
+}
